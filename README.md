@@ -1,8 +1,3 @@
-Hello! This is my first project of the course.
+Hello! It's my pleasure to show you my first project in the course odin. It's a basic website bulding.
 
-It`s consist of a build a basic website.
-
-The website is about recipes.
-
-If the website doesn`t look very pretty, is because doesn´t have CSS language.
-
+This "Recipe" website was built without CSS language, that's why it may look not that pretty.
