@@ -1,0 +1,32 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 10px;
+    box-sizing: border-box;
+    background-color: lavender;
+}
+
+h1 {
+    text-align: center;
+    font-size: 90px;
+    background-color: bisque;
+}
+
+.list {
+    list-style-type: none;
+}
+
+h2 {
+    text-align: left;
+    font-size: 45px;
+}
+
+img {
+    width: 200px;
+    border: 1px solid black;
+}
+
+ul {
+    font-size: 30px;
+}
