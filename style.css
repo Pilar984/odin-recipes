@@ -11,6 +11,8 @@ h1 {
     text-align: center;
     font-size: 90px;
     background-color: bisque;
+    margin-top: 16px;
+    margin-bottom: 16px;
 }
 
 .list {
@@ -25,8 +27,27 @@ h2 {
 img {
     width: 200px;
     border: 1px solid black;
+    display: block;
 }
 
 ul {
     font-size: 30px;
+}
+
+.flex {
+    display: inline-block;
+    border: 5px double blue;
+    padding: 8px;
+    margin:auto;
+    margin-bottom: 8px;
+}
+
+body {
+    display: block;
+    margin: 16px;
+    border: 5px solid white;
+}
+
+.sub {
+    font-size: 2em;
 }
